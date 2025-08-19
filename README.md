@@ -1,8 +1,10 @@
 📊 AstroSage Call Performance Data Analysis
+
 📌 Introduction
 
-This project analyzes the call performance data from AstroSage, focusing on consultation success rate, guru ratings, revenue, and customer satisfaction.
-The main objective of the analysis is to identify trends, evaluate performance, and suggest improvements for better consultation outcomes and revenue growth.
+• This project analyzes the call performance data from AstroSage, focusing on consultation success rate, guru ratings, revenue, and customer satisfaction.
+
+• The main objective of the analysis is to identify trends, evaluate performance, and suggest improvements for better consultation outcomes and revenue growth.
 
 📂 Dataset Description
 • The dataset contains details about guru consultations.
