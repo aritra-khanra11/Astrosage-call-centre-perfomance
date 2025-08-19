@@ -7,6 +7,7 @@
 • The main objective of the analysis is to identify trends, evaluate performance, and suggest improvements for better consultation outcomes and revenue growth.
 
 📂 Dataset Description
+
 • The dataset contains details about guru consultations.
 
 • Guru ID / Guru Count – Total gurus available on the platform.
@@ -20,7 +21,9 @@
 • Time Slots – Consultation activity by hour.
 
 ⚙️ Tools & Methods Used
+
 ✅ Excel Functions
+
 • VLOOKUP / XLOOKUP → To fetch related details (ratings, success rate, revenue).
 
 • Aggregate Functions (SUM, AVERAGE, COUNT, MAX, MIN) → To calculate totals, averages, and extremes.
