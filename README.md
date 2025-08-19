@@ -30,7 +30,5 @@ The main objective of the analysis is to identify trends, evaluate performance, 
 • Improve consultation quality to increase ratings and customer satisfaction.
 • Provide training for gurus to handle calls more effectively.
 • Focus on peak hours (08:00 AM – 04:00 PM) to reduce failures and improve success rate.
-
-Enhance customer support experience to encourage repeat users.
-
-Balance chat and call consultations to diversify revenue streams.
+• Enhance customer support experience to encourage repeat users.
+• Balance chat and call consultations to diversify revenue streams.
